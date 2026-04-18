@@ -1,0 +1,9 @@
+{
+  "$meta": {
+    "name": "Thread Search",
+    "description": "Adds a search bar to the Discord threads panel"
+  },
+  "thread-search": {
+    "version": "1.0.0"
+  }
+}

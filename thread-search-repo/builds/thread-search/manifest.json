@@ -1,0 +1,12 @@
+{
+  "id": "thread-search",
+  "version": "1.0.0",
+  "type": "plugin",
+  "spec": 3,
+  "main": "",
+  "display": {
+    "name": "Thread Search",
+    "description": "Adds a search bar to the threads panel",
+    "authors": [{ "name": "brotherguns" }]
+  }
+}
